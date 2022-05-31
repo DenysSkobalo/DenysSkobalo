@@ -10,8 +10,8 @@
 ![SASS](https://img.shields.io/badge/JavaScript-gray??style=for-the-badge&logo=JavaScript)
 
 ### Follow me
-![Instagram](https://img.shields.io/badge/My-Instagram-gray??style=for-the-badge&logo=Instagram)
-![Instagram](https://img.shields.io/badge/Instagram-Blog-gray??style=for-the-badge&logo=Instagram)
+[![Instagram](https://img.shields.io/badge/My-Instagram-gray??style=for-the-badge&logo=Instagram)](https://www.instagram.com/xkhertek/)
+[![Instagram](https://img.shields.io/badge/Instagram-Blog-gray??style=for-the-badge&logo=Instagram)](https://www.instagram.com/road_to_junior/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenysSkobalo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
