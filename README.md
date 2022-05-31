@@ -12,3 +12,7 @@
 ### Follow me
 ![Instagram](https://img.shields.io/badge/My-Instagram-gray??style=for-the-badge&logo=Instagram)
 ![Instagram](https://img.shields.io/badge/Instagram-Blog-gray??style=for-the-badge&logo=Instagram)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenysSkobalo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/DenysSkobalo)
